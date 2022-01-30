@@ -8,6 +8,7 @@ enableEmoji = true
 [params]
 ShowShareButtons = true
 ShowReadingTime = true
+defaultTheme = "dark"
 
 [params.editPost]
 URL = "https://github.com/szymonprz/szymonprz.github.io/content"
