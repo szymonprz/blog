@@ -4,7 +4,6 @@ title = 'software dev struggles'
 theme = 'PaperMod'
 
 enableEmoji = true
-comments = true
 
 [params]
 ShowShareButtons = true
