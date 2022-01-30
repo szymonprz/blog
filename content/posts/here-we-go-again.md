@@ -2,7 +2,7 @@
 title: "Here we go again"
 summary: Starting again with another blog
 date: 2022-01-30
-draft: true
+draft: false
 ---
 
 ![Oh sh*t, here we go again](/images/here-we-go-again/cover.png)
