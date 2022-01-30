@@ -1,0 +1,33 @@
+baseURL = 'https://szymonprz.github.io'
+languageCode = 'en-us'
+title = 'software dev struggles'
+theme = 'PaperMod'
+
+enableEmoji = true
+comments = true
+
+[params]
+ShowShareButtons = true
+ShowReadingTime = true
+
+[params.editPost]
+URL = "https://github.com/szymonprz/blog/content"
+Text = "Suggest Changes"
+appendFilePath = true # to append file path to Edit link
+
+[params.homeInfoParams]
+Title = "What to do to make your life easier"
+Content = """Read about how I try to make my life of software dev easier, maybe it will help you too
+- If you like it, do give a 🌟 on [Github](https://github.com/szymonprz/blog)!"""
+
+[[params.socialIcons]]
+name = "stackoverflow"
+url = "https://stackoverflow.com/users/3474594/szymon-prz"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://pl.linkedin.com/in/szymon-przebierowski"
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:szymonprz@gmail.com"
