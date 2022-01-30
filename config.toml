@@ -10,7 +10,7 @@ ShowShareButtons = true
 ShowReadingTime = true
 
 [params.editPost]
-URL = "https://github.com/szymonprz/blog/content"
+URL = "https://github.com/szymonprz/szymonprz.github.io/content"
 Text = "Suggest Changes"
 appendFilePath = true # to append file path to Edit link
 
