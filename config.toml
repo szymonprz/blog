@@ -17,7 +17,7 @@ appendFilePath = true # to append file path to Edit link
 [params.homeInfoParams]
 Title = "What to do to make your life easier"
 Content = """Read about how I try to make my life of software dev easier, maybe it will help you too
-- If you like it, do give a 🌟 on [Github](https://github.com/szymonprz/blog)!"""
+- If you like it, do give a 🌟 on [Github](https://github.com/szymonprz/szymonprz.github.io)!"""
 
 [[params.socialIcons]]
 name = "stackoverflow"
