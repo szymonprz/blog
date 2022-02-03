@@ -1,7 +1,7 @@
 ---
 title: "Use git aliases"
 date: 2022-02-03
-draft: true
+draft: false
 ---
 
 
